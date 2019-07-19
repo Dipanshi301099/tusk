@@ -5,6 +5,10 @@ kheer
 pasta
 
 
+beans
+pizza
+
+
 chicken fry
 
 
